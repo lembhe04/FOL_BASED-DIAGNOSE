@@ -1,0 +1,8 @@
+[2025-04-22 09:27:54] Symptoms: fever, cough -> Conditions: flu
+[2025-04-22 09:43:09] Symptoms: fever, cough -> Conditions: flu
+[2025-04-22 09:43:54] Symptoms: chest_pain, short_breath -> Conditions: pneumonia
+[2025-04-22 13:45:39] Symptoms: headache,nausea -> Conditions: migraine
+[2025-04-22 13:47:02] Symptoms: chest_pain,short_breath -> Conditions: pneumonia
+[2025-04-22 14:14:59] Symptoms: fever, cough -> Conditions: flu
+[2026-03-11 20:52:35] Symptoms: fever, cough -> Conditions: flu
+[2026-03-11 20:53:40] Symptoms: fever, cough -> Conditions: flu
